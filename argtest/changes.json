@@ -1,0 +1,12 @@
+{
+    "1.0.0": {
+        "description": "- Playtesting build.",
+        "files": []
+    },
+	"3.0.0": {
+		"description": "- Test Chap 3.",
+		"files": [
+		"changes.json"
+		]
+	}
+}

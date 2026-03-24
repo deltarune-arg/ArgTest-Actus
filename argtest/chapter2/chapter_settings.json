@@ -1,0 +1,29 @@
+{
+    "sprites_settings": {
+        "spr_example": {
+            "frame_num": 1,
+			"xoffset": 0,
+			"yoffset": 0,
+			"spr_speed": 1
+        },
+		"spr_arcade_time": {
+			"xoffset": 14,
+			"yoffset": 0
+		},
+		"spr_hero_hp": {
+			"xoffset": 0,
+			"yoffset": 3
+		},
+		"spr_city_mice_sign_03": {
+			"xoffset": 14,
+			"yoffset": 0
+		},
+		"IMAGE_LOGO_CENTER_CHAPTERNUMBER": {
+			"yoffset": 9
+		}
+	},
+    "button_sounds_symbols": ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z","0","1","2","3","4","5","6","7","8","9","!","?"],
+    "welcome_sign_x1": [15, 38, 49, 68, 93, 119, 138, 163, 174, 200, 236, 272, 293, 328, 351, 362, 386, 412, 438],
+    "welcome_sign_x2": [35, 46, 65, 90, 116, 135, 160, 171, 197, 224, 259, 290, 316, 348, 359, 383, 409, 435, 461],
+    "only_one_tutoriel": true
+}
