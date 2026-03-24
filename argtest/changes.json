@@ -8,5 +8,12 @@
 		"files": [
 		"changes.json"
 		]
+	},
+	"3.0.1": {
+		"description": "- transfalse.",
+		"files": [
+		"settings.json",
+		"changes.json"
+	]
 	}
 }

@@ -6,7 +6,7 @@
     "monospace_fonts": true,
     "special_mode": false,
     "enable_translated_songs_switch": true,
-    "translator_mode": true,
+    "translator_mode": false,
     "line_height_factor": 1,
     "files_url": "https://raw.githubusercontent.com/deltarune-arg/ArgTest-Actus/refs/heads/main/argtest/",
     "datas_url": [
