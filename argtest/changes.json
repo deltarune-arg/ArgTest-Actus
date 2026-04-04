@@ -17,7 +17,7 @@
 	]
 	},
 	"3.0.1": {
-		"description": "- hice este coso"
+		"description": "- hice este coso",
 		"files": [
 		"settings.json",
 		"changes.json"
